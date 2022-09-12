@@ -1,0 +1,29 @@
+@charset "charset";
+
+.child {
+  padding: 0.75%; /* don't touch this css-property */
+}
+.parent {
+  background-color: #0ea8f8; /* don't touch this css-property */
+  margin: 0.5%; /* don't touch this css-property */
+  padding: 0.5%; /* don't touch this css-property */
+}
+
+.child-one {
+  background-color: #77fe78; /* don't touch this css-property */
+
+ 
+
+}
+
+.child-two {
+  background-color: #f37675; /* don't touch this css-property */
+
+}
+
+.child-three {
+  background-color: #f576e8; /* don't touch this css-property */
+
+
+  
+}
