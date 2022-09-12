@@ -9,8 +9,8 @@ There are five different position values:
 - absolute
 - sticky
 
-## Test CSS Positions with [Code Pen](https://codepen.io/Katakung95/pen/NWXVRXe)
-I have attached a link to Codepen where you can play around with the toggling positioning. If you want to mess around with it, you can open it up on Codepen and in the CSS tab, you can go into the class you want to mess around with and change the values of the left, right, top and bottom to whatever you like, then you can click on the element to see how it looks compared to its normal flow.
+## Test CSS Positions with [Codepen](https://codepen.io/Katakung95/pen/NWXVRXe)
+I have attached a link to [Codepen](https://codepen.io/Katakung95/pen/NWXVRXe) where you can play around with the toggling positioning. If you want to mess around with it, you can open it up on Codepen and in the CSS tab, you can go into the class you want to mess around with and change the values of the left, right, top and bottom to whatever you like, then you can click on the element to see how it looks compared to its normal flow.
 
 # Exercise
 
