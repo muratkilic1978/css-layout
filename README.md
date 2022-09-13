@@ -1,4 +1,4 @@
-
+# CSS Layout
 When we talk about CSS layout it is very important to understand the **position** property. The **position** property specifies the type of positioning method used for an element (*static*, *relative*, *fixed*, *absolute* or *sticky*).
 
 ## The position Property
